@@ -1,7 +1,7 @@
 {
   "name": "merkle-cli",
   "version": "0.0.1",
-  "description": "An extensible commmand line tool for generating merkle trees and proofs.",
+  "description": "An extensible command line tool for generating merkle trees and proofs.",
   "main": "./bin/generate.ts",
   "scripts": {
     "build": "npx tsc",
